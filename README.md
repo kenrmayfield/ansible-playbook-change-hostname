@@ -1,5 +1,5 @@
 # ansible-playbook-change-hostname
-A ansible playbook to help fix /etc/hosts
+A Ansible PlayBook to help Fix /etc/hosts, Re-Name your HostName, Reboot Hosts and Validate Hosts.
 
 # Overview
 This was created from some snippets I found online and put it all together in a single place. This is really just here for my own reference. 
